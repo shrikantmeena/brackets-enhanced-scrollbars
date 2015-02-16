@@ -1,0 +1,15 @@
+::-webkit-scrollbar {
+	-webkit-appearance: none;
+	width: 10px;
+	height: 10px;
+}
+::-webkit-scrollbar-thumb {
+	border: none;
+	background-color: #444;
+}
+.CodeMirror-scrollbar-filler {
+	display: none !important;
+}
+.CodeMirror-gutter-filler {
+	display: none !important;
+}

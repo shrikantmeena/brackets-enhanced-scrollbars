@@ -1,0 +1,12 @@
+{
+    "name": "shrikantmeena.enhanced-scrollbars",
+    "title": "Enhanced Scrollbars",
+    "description": "Elegant scrollbars for the brackets editor",
+    "homepage": "https://github.com/shrikantmeena/brackets-enhanced-scrollbars",
+    "version": "1.0.0",
+    "author": "Shrikant Meena <shantty@gmail.com> (http://github.com/shrikantmeena)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
